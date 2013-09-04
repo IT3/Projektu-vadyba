@@ -4,4 +4,4 @@ Erika Janiūnienė
 
 ## Privaloma literatūra
 
-[Eliyahu M. Goldratt - Kritinė grandinė](Eliyahu M. Goldratt - Kritinė grandinė.pdf)
+Eliyahu M. Goldratt - Kritinė grandinė
